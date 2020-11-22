@@ -1,0 +1,1 @@
+alert("APAKAH ANDA YAKIN?");
